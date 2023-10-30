@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-**c1c3r02017/c1c3r02017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### SOBRE MIM
-- 🔭 Atualmente desenvolvo projetos em C#, .Net, SQL, JavaScript, Node.Js, React Native, com Git, Azure e AWS. 
+- 🔭 Desenvolvo projetos em C#, .Net, SQL, JavaScript, Node.Js, React Native, com Git, Azure e AWS. 
 
 - 🌱 Participo de cursos de extensão para aprimorar meus conhecimentos em conversação e escrita em Inglês e desenvolvimento de software com foco no BackEnd.
 
